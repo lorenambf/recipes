@@ -1,4 +1,4 @@
-Hei hei, Lorena here 
+Hei hei, Lorena and Margaux here
 
 # Guacamole
 ## Ingredients
