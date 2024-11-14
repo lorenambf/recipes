@@ -1,7 +1,7 @@
-#Guacamole
-##Ingredients
+# Guacamole
+## Ingredients
 * avocado
 * lime
 * salt
-##Instructions
+## Instructions
 Peel and smash the avocado and mix all the ingredients.
